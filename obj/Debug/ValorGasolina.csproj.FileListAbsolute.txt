@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\ValorGasolina\bin\Debug\ValorGasolina.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\ValorGasolina\bin\Debug\ValorGasolina.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\ValorGasolina\bin\Debug\ValorGasolina.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\ValorGasolina\obj\Debug\ValorGasolina.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\ValorGasolina\obj\Debug\ValorGasolina.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\ValorGasolina\obj\Debug\ValorGasolina.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\ValorGasolina\obj\Debug\ValorGasolina.pdb

@@ -19,6 +19,8 @@ namespace postoGasolina
             Console.Write("Quantos litros: ");
             litros = Convert.ToDouble(Console.ReadLine());
 
+            ObterDesconto(combustivel, litros);
+
         }
         public static void ObterDesconto(string combustivel, double litros)
         {
